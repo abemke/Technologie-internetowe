@@ -1,0 +1,175 @@
+HTML okienko:
+
+<body>
+<h1>Witaj œwiecie</h1>
+<p>pierwszy akapit</p>
+<p>drugi akapit</p>
+<h2 class="first">Witaj instytucie</h2>
+<p>Zbli¿a siê przerwa, powoli</p>
+</body>
+
+CSS okienko:
+
+h1 {color: red;}
+p{background-color: green; color: white;}
+.first{color: yellow;} 
+#zamienny kolor .first druga wersja	.first{color: #ccc;} <-szary
+
+Guzik run pokazuje jak ta strona bêdzie wygl¹daæ w przegl¹darce!
+
+kolejna wersja:
+
+
+HTML okienko:
+
+<body>
+<div id="container">
+<h1>Witaj œwiecie</h1>
+<p>pierwszy akapit</p>
+<p>drugi akapit</p>
+<h2 class="first">Witaj instytucie</h2>
+<p>Zbli¿a siê przerwa, powoli</p>
+</div>
+</body>
+
+CSS okienko:
+
+h1 {color: red;}
+p{background-color: green; color: white;}
+.first{color: #ccc;} 
+#container{background: yellow;}
+
+Guzik run pokazuje jak ta strona bêdzie wygl¹daæ w przegl¹darce!
+
+kolejna wersja:
+HTML okienko:
+
+<body>
+<div id="container">
+<h1>Witaj œwiecie</h1>
+<p>pierwszy akapit</p>
+<p>drugi akapit</p>
+<h2 class="first">Witaj instytucie</h2>
+<p><u>Zbli¿a siê przerwa</u>, powoli</p>
+</div>
+</body>
+
+CSS okienko:
+
+h1 {color: red;}
+p{background-color: green; color: white;}
+.first{color: #ccc;} 
+#container{background: yellow;}
+
+
+
+kolejna wersja:
+HTML okienko:
+
+<body>
+<div id="container">
+  <h1>Witaj œwiecie</h1>
+    <p><span class="emph">pierwszy akapit</span></p>
+    <p>drugi akapit</p>
+  <h2 class="first">Witaj instytucie</h2>
+    <p><u>Zbli¿a siê przerwa</u>, powoli</p>
+</div>
+</body>
+
+CSS okienko:
+
+h1 {color: red;}
+p{background-color: green; color: white;}
+.first{color: #ccc;} 
+#container{background: yellow;}
+.emph{color: red;}
+
+
+
+kolejna wersja:
+HTML okienko:
+
+<body>
+<div id="container">
+  <h1>Witaj œwiecie</h1>
+    <p><span class="emph">pierwszy</span> akapit</p>
+    <p>drugi akapit</p>
+  <h2 class="first">Witaj instytucie</h2>
+    <p><u>Zbli¿a siê przerwa</u>, powoli</p>
+</div>
+</body>
+
+CSS okienko:
+
+h1 {color: red;}
+p{background-color: green; color: white;}
+.first{color: #ccc;} 
+#container{background: yellow;}
+.emph{color: red;}
+
+kolejna wersja:
+HTML okienko:
+
+<body>
+<div id="container">
+  <h1>Witaj œwiecie</h1>
+    <p><span class="emph warn">pierwszy</span> akapit</p>
+    <p>drugi akapit</p>
+  <h2 class="first">Witaj instytucie</h2>
+    <p><u>Zbli¿a siê przerwa</u>, powoli</p>
+</div>
+</body>
+
+CSS okienko:
+
+h1 {color: red;}
+p{background-color: green; color: white;}
+.first{color: #ccc;} 
+#container{background: yellow;}
+.emph{color: red;}
+.warn {background: white;}
+
+
+kolejna wersja:
+HTML okienko:
+
+
+
+CSS okienko:
+
+
+
+
+kolejna wersja:
+HTML okienko:
+
+
+
+CSS okienko:
+
+
+
+
+kolejna wersja:
+HTML okienko:
+
+
+
+CSS okienko:
+
+
+
+
+kolejna wersja:
+HTML okienko:
+
+
+
+CSS okienko:
+
+
+
+
+
+
+
