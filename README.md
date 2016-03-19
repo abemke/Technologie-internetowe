@@ -25,8 +25,10 @@ nastpnie zatwierdzamy wybieramy szablon i koniec.
 
 link do strony www jest w repozytorium Setting w czci GitHub Pages.
 
-## kod źródlowy wywietlamy zmieniaj:
+## kod źródlowy wywietlamy zmieniajc:
 
-c na repozytorium Branch: gh-pages.
+ na repozytorium Branch: gh-pages.
 
 ## zmiany w kodzie źródlowym:
+
+zajrzeć na jego stron w repwtytorium h5c3j/tatry
