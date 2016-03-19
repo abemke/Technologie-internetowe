@@ -33,3 +33,7 @@ link do strony www jest w repozytorium Setting w czesci GitHub Pages.
 ### zmiany w kodzie źródlowym:
 
 zajrzeć na jego stron w repwtytorium h5c3j/tatry
+
+### przyspieszacz stron www:
+https://www.ampproject.org <- sciagnac kod, może mieć inny adres
+google.amp
