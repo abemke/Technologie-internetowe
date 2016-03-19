@@ -14,3 +14,15 @@
   12. https://www.wolframalpha.com/
   13. http://pagess.githab.com
   
+http://abemke.github.io/Technologie-internetowe/ <- link do mojej strony
+
+#Tworzenie strony www.
+wchodzimy w Setting w repozytorium nastepnie zjeżdżamy w dól do GitHub Pages klikamy zielone uzupeniamy nazw(Naglóek glówny) i tagline.
+nastpnie zatwierdzamy wybieramy szablon i koniec.
+
+link do strony www jest w repozytorium Setting w czci GitHub Pages.
+
+#kod źródlowy wywietlamy zmieniaj
+c na repozytorium Branch: gh-pages.
+
+#zmiany w kodzie źródlowym:
