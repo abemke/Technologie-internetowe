@@ -2,7 +2,7 @@
 
 #  19.03.2016:
 
-##  linki:
+###  linki:
   1. http://www.evolutionoftheweb.com
   2. https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html
   3. https://livedom.validator.nu/
@@ -19,17 +19,17 @@
   
 http://abemke.github.io/Technologie-internetowe/ <- link do mojej strony
 
-## Tworzenie strony www:
+### Tworzenie strony www:
 
 wchodzimy w Setting w repozytorium nastepnie zjeżdżamy w dól do GitHub Pages klikamy zielone uzupeniamy nazw(Naglóek glówny) i tagline.
 nastpnie zatwierdzamy wybieramy szablon i koniec.
 
-link do strony www jest w repozytorium Setting w czci GitHub Pages.
+link do strony www jest w repozytorium Setting w czesci GitHub Pages.
 
-## kod źródlowy wywietlamy zmieniajc:
+### kod źródlowy wywietlamy zmieniajc:
 
  na repozytorium Branch: gh-pages.
 
-## zmiany w kodzie źródlowym:
+### zmiany w kodzie źródlowym:
 
 zajrzeć na jego stron w repwtytorium h5c3j/tatry
