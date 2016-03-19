@@ -21,7 +21,7 @@ http://abemke.github.io/Technologie-internetowe/ <- link do mojej strony
 
 ### Tworzenie strony www:
 
-wchodzimy w Setting w repozytorium nastepnie zjeżdżamy w dól do GitHub Pages klikamy zielone uzupeniamy nazw(Naglóek glówny) i tagline.
+wchodzimy w Setting w repozytorium nastepnie zjeżdżamy w dól do GitHub Pages klikamy zielone uzupeniamy nazw (Naglóek glówny) i tagline.
 nastpnie zatwierdzamy wybieramy szablon i koniec.
 
 link do strony www jest w repozytorium Setting w czesci GitHub Pages.
@@ -35,5 +35,4 @@ link do strony www jest w repozytorium Setting w czesci GitHub Pages.
 zajrzeć na jego stron w repwtytorium h5c3j/tatry
 
 ### przyspieszacz stron www:
-https://www.ampproject.org <- sciagnac kod, może mieć inny adres
-google.amp
+https://www.ampproject.org <- sciagnac kod, może mieć inny adres google.amp
