@@ -1,5 +1,6 @@
 # Technologie-internetowe
-  19.03.2016:
+
+#  19.03.2016:
 
 ##  linki:
   1. http://www.evolutionoftheweb.com
